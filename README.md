@@ -13,7 +13,7 @@ IPTV-Search is a Python program that allows you to search for channels in the IP
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/<your-username>/IPTV-Search.git
+   git clone https://github.com/lopekinz/IPTV-Search.git
    ```
 
 2. Navigate to the repository directory:
